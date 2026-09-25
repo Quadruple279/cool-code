@@ -54,7 +54,7 @@ for i in range(6):
 time.sleep(1)
 
 
-print(" SUMMARY".center(100, "-"))
+print("SUMMARY".center(100, "-"))
 print("")
 print(f"TOTAL SCORE: {sum(track_rolls)}".center(100, " ") + "\n")
 
